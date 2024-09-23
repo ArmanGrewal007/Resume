@@ -1,4 +1,5 @@
 [submodule "armangrewal007-py"]
 	path = armangrewal007-py
 	url = git@github.com:ArmanGrewal007/armangrewal007-py.git
-	branch = master 
+	branch = master
+
