@@ -5,3 +5,6 @@
 [submodule "homebrew-armangrewal007"]
 	url = git@github.com:ArmanGrewal007/homebrew-armangrewal007.git
 	path = homebrew-armangrewal007
+[submodule "armangrewal007-npm"]
+	path = armangrewal007-npm
+	url = git@github.com:ArmanGrewal007/armangrewal007-npm.git
