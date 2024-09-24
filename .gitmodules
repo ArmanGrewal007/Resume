@@ -3,3 +3,6 @@
 	url = git@github.com:ArmanGrewal007/armangrewal007-py.git
 	branch = master
 
+[submodule "armangrewal007-brew"]
+	path = armangrewal007-brew
+	url = git@github.com:ArmanGrewal007/armangrewal007-brew.git
