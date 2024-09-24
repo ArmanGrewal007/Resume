@@ -2,10 +2,6 @@
 	path = armangrewal007-py
 	url = git@github.com:ArmanGrewal007/armangrewal007-py.git
 	branch = master
-
-[submodule "armangrewal007-brew"]
-	path = armangrewal007-brew
-	url = git@github.com:ArmanGrewal007/armangrewal007-brew.git
 [submodule "homebrew-armangrewal007"]
 	url = git@github.com:ArmanGrewal007/homebrew-armangrewal007.git
 	path = homebrew-armangrewal007
