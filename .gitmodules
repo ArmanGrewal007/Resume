@@ -8,3 +8,6 @@
 [submodule "armangrewal007-npm"]
 	path = armangrewal007-npm
 	url = git@github.com:ArmanGrewal007/armangrewal007-npm.git
+[submodule "armangrewal007-apt"]
+	path = armangrewal007-apt
+	url = git@github.com:ArmanGrewal007/armangrewal007-apt.git
