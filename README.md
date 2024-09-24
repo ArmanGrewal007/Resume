@@ -6,4 +6,6 @@
 
 
 
-Run $`\color{green} \mathbf{armangrewal007}`$ to see my resume in your terminal!
+Run <br>
+$`\color{green} \mathbf{armangrewal007}`$ <br>
+to see my resume in your terminal!
