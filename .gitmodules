@@ -14,3 +14,6 @@
 [submodule "armangrewal007-site"]
 	path = armangrewal007-site
 	url = git@github.com:ArmanGrewal007/armangrewal007-site.git
+[submodule "armangrewal007-winget"]
+	path = armangrewal007-winget
+	url = git@github.com:ArmanGrewal007/armangrewal007-winget.git
