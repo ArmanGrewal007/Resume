@@ -4,7 +4,7 @@
   (This gif is for <code>v0.1.3</code>)
 </div>
 
-## ![img](https://icons-theta.vercel.app/icon?i=python) Python environemnt (cross platform) 
+## ![img](https://icons-theta.vercel.app/icon?i=python) Python (cross platform) 
 `pip install --upgrade armangrewal007` <br>
 `armangrewal007` <br> <br>
 
