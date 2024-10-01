@@ -1,11 +1,13 @@
 # Steps to install
 
-## Python environemnt (cross platform) [Submodule README](armangrewal007-py/README.md)
+## Python environemnt (cross platform) ![img](https://icons-theta.vercel.app/icon?i=python)
 `pip install --upgrade armangrewal007` <br>
-`armangrewal007`
+`armangrewal007` <br>
+More info on [Submodule README](https://github.com/ArmanGrewal007/armangrewal007-py/blob/master/README.md)
 
-## MacOS [Submodule README](homwbrew-armangrewal007/README.md)
-`brew install armangrewal007`
+## MacOS ![img](https://icons-theta.vercel.app/icon?i=apple)
+`brew install armangrewal007` <br>
+More info on [Submodule README](https://github.com/ArmanGrewal007/homebrew-armangrewal007/blob/master/README.md)
 
 -------
 
