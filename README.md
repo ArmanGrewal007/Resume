@@ -16,6 +16,8 @@ _More info on [Submodule README](https://github.com/ArmanGrewal007/armangrewal00
 
 ## ![img](https://icons-theta.vercel.app/icon?i=apple) MacOS 
 `brew install armangrewal007` <br>
+`man armangrewal007` <br>
+`armangrewal007`
 
 _More info on [Submodule README](https://github.com/ArmanGrewal007/homebrew-armangrewal007/blob/master/README.md)_
 
