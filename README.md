@@ -6,16 +6,18 @@
 
 ## ![img](https://icons-theta.vercel.app/icon?i=python) Python (cross platform) 
 `pip install --upgrade armangrewal007` <br>
-`armangrewal007` <br> <br>
+`armangrewal007` 
 
-On debian you can use <br>
+On debian you can use: <br>
 `pipx install armangrewal007` <br>
 `pipx run armangrewal007` <br>
-More info on [Submodule README](https://github.com/ArmanGrewal007/armangrewal007-py/blob/master/README.md)
+
+_More info on [Submodule README](https://github.com/ArmanGrewal007/armangrewal007-py/blob/master/README.md)_
 
 ## ![img](https://icons-theta.vercel.app/icon?i=apple) MacOS 
 `brew install armangrewal007` <br>
-More info on [Submodule README](https://github.com/ArmanGrewal007/homebrew-armangrewal007/blob/master/README.md)
+
+_More info on [Submodule README](https://github.com/ArmanGrewal007/homebrew-armangrewal007/blob/master/README.md)_
 
 -------
 
