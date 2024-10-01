@@ -15,8 +15,8 @@ On debian you can use: <br>
 _More info on [Submodule README](https://github.com/ArmanGrewal007/armangrewal007-py/blob/master/README.md)_
 
 ## ![img](https://icons-theta.vercel.app/icon?i=apple) MacOS 
+`brew tap armangrewal007/homebrew-armangrewal007` <br>
 `brew install armangrewal007` <br>
-`man armangrewal007` <br>
 `armangrewal007`
 
 _More info on [Submodule README](https://github.com/ArmanGrewal007/homebrew-armangrewal007/blob/master/README.md)_
