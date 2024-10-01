@@ -4,7 +4,7 @@
   (This gif is for <code>v0.1.3</code>)
 </div>
 
-## Python environemnt (cross platform) ![img](https://icons-theta.vercel.app/icon?i=python)
+## ![img](https://icons-theta.vercel.app/icon?i=python) Python environemnt (cross platform) 
 `pip install --upgrade armangrewal007` <br>
 `armangrewal007` <br> <br>
 
@@ -13,7 +13,7 @@ On debian you can use <br>
 `pipx run armangrewal007` <br>
 More info on [Submodule README](https://github.com/ArmanGrewal007/armangrewal007-py/blob/master/README.md)
 
-## MacOS ![img](https://icons-theta.vercel.app/icon?i=apple)
+## ![img](https://icons-theta.vercel.app/icon?i=apple) MacOS 
 `brew install armangrewal007` <br>
 More info on [Submodule README](https://github.com/ArmanGrewal007/homebrew-armangrewal007/blob/master/README.md)
 
