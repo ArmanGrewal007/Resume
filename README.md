@@ -1,5 +1,5 @@
 <div aling="center">
-  <h1>armangrewal007</h1>
+  <h1>armangrewal007</h1> <br>
   <img src="https://github.com/ArmanGrewal007/armangrewal007-py/blob/master/armangrewal007-py-v0.1.3.gif" /> <br>
   (This gif is for <code>v0.1.3</code>)
 </div>
