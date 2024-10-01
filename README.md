@@ -25,5 +25,5 @@ _More info on [Submodule README](https://github.com/ArmanGrewal007/homebrew-arma
 
 <div align="center">
   QRCode to actual Résumé: <a href="https://qrco.de/grewal">https://qrco.de/grewal </a> <br>
-  <img src="qrcode.png" height="300"/> <br>
+  <a href="https://qrco.de/grewal"><img src="qrcode.png" height="300"/></a><br>
 </div>
