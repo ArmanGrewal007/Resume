@@ -21,6 +21,11 @@ _More info on [Submodule README](https://github.com/ArmanGrewal007/armangrewal00
 
 _More info on [Submodule README](https://github.com/ArmanGrewal007/homebrew-armangrewal007/blob/master/README.md)_
 
+
+## ![img](https://icons-theta.vercel.app/icon?i=debian) Debian 
+
+_More info on [Submodule README](https://github.com/ArmanGrewal007/armangrewal007-apt/blob/master/README.md)_
+
 -------
 
 <div align="center">
